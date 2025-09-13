@@ -6,11 +6,11 @@ You can click the Preview link to take a look at your changes. hi
 --->
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Mytai20100&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 # Languages
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,CSS,cuda,lua,go&includeNames=true
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,CSS,lua,go&includeNames=true
 )
 
 # Frameworks
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,nodejss&includeNames=true
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,nodejs&includeNames=true
 )](https://github.com/Jurredr/github-widgetbox)
 
 # Github stats
