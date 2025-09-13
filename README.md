@@ -1,5 +1,20 @@
 # DevOps 
 idk =)
+<!---
+evokerking1/evokerking1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes. hi
+--->
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=evokerking1&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+# Languages
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,CSS,cuda,lua,go&includeNames=true
+)
 
+# Frameworks
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,nodejss&includeNames=true
+)](https://github.com/Jurredr/github-widgetbox)
+
+# Github stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mytai20100&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mytai20100&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://visitcount.itsvg.in/api?id=Mytai20100&label=Profile%20Views&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mytai20100)](https://github.com/anuraghazra/github-readme-stats)
+
