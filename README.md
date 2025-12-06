@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi! I'm devops</h1> -->
-[![Badge](https://api.snd.qzz.io/custom?text=%F0%9F%91%8B%20Hi!%20I%27m%20DevOps%20%7C%20%F0%9F%94%90%20Cybersecurity&theme=cyberpunk&width=650&height=95&font_size=26&icon=code&border_radius=20&animation=glow)](https://github.com/mytai20100/snd-stats)
+[![Badge](https://api.snd.qzz.io/custom?text=%F0%9F%91%8B%20Hi!%20I%27m%20DevOps%20%7C%20%F0%9F%94%90%20Cybersecurity&theme=white&width=700&height=95&font_size=26&icon=code&border_radius=20&animation=glow)](https://github.com/mytai20100/snd-stats)
 <!---
 evokerking1/evokerking1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. hi
