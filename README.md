@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes. hi
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mytai20100&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mytai20100&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://visitcount.itsvg.in/api?id=Mytai20100&label=Profile%20Views&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
-
+![Views](https://api.snd.qzz.io/view/mytai20100?logo=heart&logo_color=ff69b4)
