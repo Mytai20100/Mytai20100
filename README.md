@@ -11,14 +11,31 @@ You can click the Preview link to take a look at your changes. hi
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,nodejs&includeNames=true
 )](https://github.com/Jurredr/github-widgetbox) 
 --->
-
-
-
 ### Github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mytai20100&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mytai20100&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://visitcount.itsvg.in/api?id=Mytai20100&label=Profile%20Views&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
-![Views](https://snd-stats.vercel.app/view/mytai20100?logo=heart&logo_color=ff69b4)
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mytai20100&theme=dark&show_icons=true&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mytai20100&theme=default&show_icons=true&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api?username=Mytai20100&theme=default&show_icons=true&hide_border=true">
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mytai20100&theme=dark&layout=compact&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mytai20100&theme=default&layout=compact&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mytai20100&layout=compact&hide_border=true">
+        </picture>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+![Views](https://snd-stats.vercel.app/view/mytai20100?logo=heart&logo_color=black)
+
 ### Fun with me
 
 <a href="https://github.com/Mytai20100">
@@ -29,7 +46,7 @@ You can click the Preview link to take a look at your changes. hi
   <img src="https://snd-stats.vercel.app/icon/social/youtube?size=50&color=%23FF0000" alt="YouTube" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.tiktok.com/@taimy630">
+<a href="https://www.tiktok.com/@mytai20100">
   <img src="https://snd-stats.vercel.app/icon/social/tiktok?size=50&color=%23000000" alt="TikTok" />
 </a>
 
