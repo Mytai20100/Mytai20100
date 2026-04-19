@@ -2,7 +2,7 @@
 
 ### Github stats
 
-![uia](https://githubcard.com/mytai20100.svg?d=gkn-TYcq)
+[![githubcard.com](https://githubcard.com/mytai20100.svg?d=gkn-TYcq)](https://githubcard.com/)
 <!-- <table>
   <tbody>
     <tr>
