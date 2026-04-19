@@ -1,19 +1,9 @@
-<!-- <h1 align="center">Hi! I'm devops</h1> -->
-[![Badge](https://snd-stats.vercel.app/custom?text=%F0%9F%91%8B%20Hi!%20I%27m%20DevOps%20|%20%20Cybersecurity&theme=white&width=700&height=95&font_size=26&icon=code&border_radius=20&animation=glow)](https://github.com/mytai20100/snd-stats)
-<!---
-evokerking1/evokerking1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. hi
-# Languages
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=c,js,java,python,lua,go,docker,bash&includeNames=true
-)
+[![Badge](https://snd-stats.vercel.app/custom?text=%F0%9F%91%8B%20Hi!%20I%27m%20DevOps%20|%20%20Cybersecurity&theme=gray&width=1200&height=95&font_size=26&icon=code&border_radius=20&animation=glow)](https://github.com/mytai20100/snd-stats)
 
-# Frameworks
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,nodejs&includeNames=true
-)](https://github.com/Jurredr/github-widgetbox) 
---->
 ### Github stats
 
-<table>
+![uia](https://githubcard.com/mytai20100.svg?d=gkn-TYcq)
+<!-- <table>
   <tbody>
     <tr>
       <td>
@@ -32,10 +22,9 @@ You can click the Preview link to take a look at your changes. hi
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
-![Views](https://snd-stats.vercel.app/view/mytai20100?logo=heart&logo_color=black)
-
+![](https://komarev.com/ghpvc/?username=mytai20100)
 ### Fun with me
 
 <a href="https://github.com/Mytai20100">
